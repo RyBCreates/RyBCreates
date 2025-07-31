@@ -27,5 +27,5 @@ I'm a full-stack developer passionate about building useful, user-centered web a
 ## Find Me Online
 
 - [LinkedIn](https://www.linkedin.com/in/ryan-bommarito/)
-- [CodeWars](https://www.codewars.com/users/ryanbommarito)
+- [CodeWars](https://www.codewars.com/users/RyBCreates)
 - [Portfolio Website](https://rybcreates.github.io/coding_portfolio/)
